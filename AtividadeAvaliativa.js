@@ -1,6 +1,6 @@
 let a = 20;
 let b = 100;
-let i = 0;
+let i = 0
 
 if ( a < 0) {
     console.log("Número Inválido.")
