@@ -1,6 +1,6 @@
 let a = 15
 let b = 40
-let i = 0;
+let i = 0
 
 if ( a < 0) {
     console.log("Número negativo.")
