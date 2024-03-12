@@ -17,7 +17,7 @@ if ( a < 0) {
 } else {
     console.log("Tabuada do " + a + " ao " + b + ":")
     for (let i = 0; i <= b; i++) {
-    let resultado = a*i;
-    console.log(a+" x "+i+" = "+resultado);
+    let multiplicação = a*i;
+    console.log(a+" x "+i+" = "+multiplicação);
 }
 }
