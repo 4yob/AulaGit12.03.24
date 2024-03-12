@@ -3,7 +3,7 @@ let b = 40;
 let i = 0;
 
 if ( a < 0) {
-    console.log("Número Inválido.")
+    console.log("Número negativo.")
 } else if ( a % 1 != 0) {
     console.log("Número Inválido.")
 } else if ( a == 0) {
