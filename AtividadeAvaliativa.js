@@ -11,7 +11,7 @@ if ( a < 0) {
 } else if ( b < 0) {
     console.log("Número negativo.")
 } else if ( b % 1 != 0) {
-    console.log("Número Inválido.")
+    console.log("Número decimal.")
 } else if ( b == 0) {
     console.log("Um dos números é zero. Tente outro número!")
 } else {
